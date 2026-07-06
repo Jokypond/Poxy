@@ -12,9 +12,9 @@ This table tracks the compatibility of Voxy across different GPUs, and the rende
 
 ### Legend
 
-✅: Graphical errors can not be seen
-\*: LODs render, but there are graphical errors
-?: Has not been tested
+✅: Graphical errors can not be seen\
+\*: LODs render, but there are graphical errors\
+?: Has not been tested\
 ❌: Does not render LODs or crashes
 
 ## Contributing
