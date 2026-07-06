@@ -4,7 +4,7 @@ Small mod that mixins into Voxy to make it "work" with Minecraft launchers on An
 <a href="https://modrinth.com/mod/poxy"><img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png"></a>
 
 ## WARNING
-This mod will **NOT** guarantee that Voxy works properly on your device, so please do not report any issues while you are using Poxy.
+This mod will **NOT** guarantee that Voxy works properly on your device, so please do not report any issues while you are using Poxy.\
 Please see the [GPU Compatibility Table](GPUCompatibilityTable.md) for more information.
 
 ## What does it do?
