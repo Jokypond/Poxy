@@ -2,6 +2,7 @@
   "required": true,
   "package": "io.github.jokypond.mixin",
   "compatibilityLevel": "JAVA_25",
+  "plugin": "io.github.jokypond.PoxyMixinPlugin",
   "mixins": [
     "StorageConfigUtilMixin",
     "ThreadUtilsMixin"
