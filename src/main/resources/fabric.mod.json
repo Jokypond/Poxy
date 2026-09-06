@@ -12,6 +12,9 @@
 	},
 	"license": "GNU GPLv3",
 	"icon": "assets/poxy/icon.png",
+	"entrypoints": {
+		"main": [ "io.github.jokypond.Poxy" ]
+	},
 	"environment": "client",
 	"mixins": [
 		{
