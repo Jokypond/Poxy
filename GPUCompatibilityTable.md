@@ -2,13 +2,13 @@
 
 This table tracks the compatibility of Voxy across different GPUs, and the renderers used to make it work.
 
-| GPU         | Zink	        | PR # |
-|-------------|-------------|------|
-| Adreno 840  | ✅ (Turnip) | 
-| Adreno 830  | ✅ (Turnip) | 
-| Adreno 750  | ❌ (Turnip) | 
-| Adreno 740  | ❌ (Turnip) | 
-| Xclipse 960 | ✅          | 
+| GPU         | Zink	        | Notes                                                                | PR # |
+|-------------|-------------|----------------------------------------------------------------------|------|
+| Adreno 840  | ✅ (Turnip) |                                                                      |      |
+| Adreno 830  | ✅ (Turnip) |                                                                      |      |
+| Adreno 750  | ✅ (Turnip) | Requires `-Dvoxy.geometryBufferSizeOverrideMB=128` in Java arguments | #8   |
+| Adreno 740  | ✅ (Turnip) | Requires `-Dvoxy.geometryBufferSizeOverrideMB=128` in Java arguments | #8   |
+| Xclipse 960 | ✅          |                                                                      |      |
 
 ### Legend
 
